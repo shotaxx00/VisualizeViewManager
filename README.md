@@ -3,7 +3,6 @@
 ![Pod Platform](https://img.shields.io/cocoapods/p/VisualizeViewManager.svg?style=flat)
 ![Pod License](https://img.shields.io/cocoapods/l/VisualizeViewManager.svg?style=flat)
 [![Pod Version](https://img.shields.io/cocoapods/v/VisualizeViewManager.svg?style=flat)](http://cocoapods.org/pods/VisualizeViewManager)
-[![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
 # Overview
 
@@ -29,12 +28,6 @@ visualizeViewManager.visualizeView(of: UIView)
 ```
 use_frameworks!
 pod 'VisualizeViewManager'
-```
-
-## Carthage
-
-```
-github "shotaxx00/VisualizeViewManager"
 ```
 
 # Author
