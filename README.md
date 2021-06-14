@@ -1,7 +1,7 @@
 # VisualizeViewManager
 
 ![Pod Platform](https://img.shields.io/cocoapods/p/VisualizeViewManager.svg?style=flat)
-![Pod License](https://img.shields.io/cocoapods/l/VisualizeViewManager.svg?style=flat)
+[![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
 [![Pod Version](https://img.shields.io/cocoapods/v/VisualizeViewManager.svg?style=flat)](http://cocoapods.org/pods/VisualizeViewManager)
 
 # Overview
