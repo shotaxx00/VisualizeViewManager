@@ -7,7 +7,9 @@
 # Overview
 
 A libary that vilualize subviews frame with random colors.
+
 It makes it easy to visually check the frame size of the view.
+
 You don't have to specify the background color one by one.
 
 # Demo
